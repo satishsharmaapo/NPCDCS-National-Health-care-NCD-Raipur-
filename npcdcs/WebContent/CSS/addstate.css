@@ -1,0 +1,248 @@
+/* CSS Document */
+
+/* CSS Document */
+
+/* Wrap Start */
+.wrap
+{
+	 height:1000px;
+	 width:950px;
+	 margin:0px auto;
+	 border:1px solid blue;
+} /* Wrap end */
+
+ 
+ /*  header start */ 
+.header
+{
+	 border-color:white;
+	 height:100px;
+	 width:900px;
+	 margin:10px 10px;
+	 border-width:10px;
+	 border:2px solid white;
+} /*    header end  */
+
+
+
+/* first part of header start */
+
+.firstheader {
+    border: 2px solid white;
+    float: left;
+    height: 80px;
+    margin: 10px;
+    width: 100px;
+} /* first part of header end */
+ 
+/*  middle part of header start */
+.middleheader {
+    border: 2px solid white;
+    float: left;
+    height: 80px;
+    margin: 10px;
+    width: 620px;
+}/* middle part of header end */
+
+/* last part of header start */
+.lastheader {
+    border: 2px solid white;
+    float: right;
+    height: 80px;
+    margin: 10px;
+    width: 100px;
+}/*  first part of header end */
+
+/*   middle part of header start */
+
+.subfirstheader {
+    border: 2px solid white;
+    float: left;
+    height: 50px;
+    margin: 5px;
+    width: 170px;
+} /* middle part of header end */
+
+/* submiddleheader start */
+.submiddleheader {
+    border: 2px solid white;
+    float: left;
+    height: 50px;
+    margin: 5px;
+    width: 620px;
+} /* submiddleheader end */
+
+ 
+
+/* sublastheader start */
+.sublastheader {
+    border: 2px solid white;
+    float: right;
+    height: 50px;
+    margin: 5px;
+    width: 100px;
+} /* sublastheader end */
+ 
+
+
+/* blank area for space top start */
+
+.blank {
+    border: 2px solid white;
+    height: 50px;
+    margin: 10px;
+    width: 900px;
+} /* black area for space top end */
+
+/* top spacing start */
+.top_spacing {
+    border: 2px solid white;
+    height: 50px;
+    margin: 10px;
+    width: 900px;
+} /* top spacing end */
+
+/* button formatting start */
+.buttonstyle
+{
+	box-shadow:6px 3px 2px #C69 inset;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:20px;
+	border-style:outset;
+	border-radius:10px 10px 10px;
+	height:auto;
+	width:auto;
+} /* button formatting end*/
+
+/* Menu item start */
+
+ .menu {
+    border: 2px solid white;
+    height: 100px;
+    margin: 10px;
+    width: 500px;
+	margin-left: 10px;
+	float:left;
+}/* menu item end */
+
+ 
+ /* container start */
+.container
+{
+
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-left: 10px solid #E8FDFF;
+    border-right: 10px solid #E8FDFF;
+    border-top: 10px solid #E8FDFF;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    box-shadow: 0 0 2px #999999;
+    height: 355px;
+    width: 930px;
+
+}/* container end */
+
+/* left identation start */
+
+.leftidentation
+{
+   /* float: left; */
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+    height: auto;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 237px;
+} /* left identation end */
+ 
+ 
+/* Workspace starts */
+.workspace {
+    border: 1px solid red;
+    float: left;
+    height: auto;
+    width: auto;
+}/* Workspace end */ 
+
+/* table start workspace */
+.tb_workspace
+{
+	border-collapse:collapse;
+	width:100%;
+	height:auto;
+	
+}/* table end workspace */
+
+/* td_workspace start */
+.tb_workspace td
+{
+	 
+	padding:5px;
+	text-align:right;
+
+	 
+}/* tb_workspace end */
+
+/* td_workspace th start */
+.tb_workspace th
+{
+	background-color:#66FFFF;
+	box-shadow:inset 8px 8px 25px #000099;
+	column-span:2;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:18px;
+	height:50px;
+	color:#012;
+}/*  td_workspace end */
+
+/* td_workspace td select */
+.tb_workspace td select {
+    border: 1px solid #CC6699;
+    border-radius: 4px 5px 5px 5px;
+    box-shadow: 3px 4px 5px #CC6699 inset;
+    color: #444444;
+    font-family: Verdana,Geneva,sans-serif;
+    font-size: 12px;
+    padding: 8px;
+    width: 213px;
+}/* td_workspace td select */
+.tb_workspace td radio
+{
+	border-bottom-color:blue;
+	border-bottom-left-radius:1px;
+	alignment-adjust:justify;
+	text-align:justify;
+}
+/* textbox1 style start */
+.textbox1 {
+    border: 1px solid #CC6699;
+    border-radius: 4px 5px 5px 5px;
+    box-shadow: 3px 4px 5px #CC6699 inset;
+    color: #444444;
+    font-family: Verdana,Geneva,sans-serif;
+    font-size: 12px;
+    padding: 8px;
+    width: 213px;
+} /* textbox1 style end */
+
+
+/* smalltextbox start */
+ .smalltextbox {
+    border: 1px solid #CC6699;
+    border-radius: 4px 5px 5px 5px;
+    box-shadow: 3px 4px 5px #CC6699 inset;
+    color: #444444;
+    font-family: Verdana,Geneva,sans-serif;
+    font-size: 12px;
+    padding: 8px;
+} /* smalltextbox end */
+
+.divoption
+{
+	float:left;
+	
+}
+
+.a 
+{
+}
+ 
